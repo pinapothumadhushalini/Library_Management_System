@@ -1,0 +1,201 @@
+Book_ID,Book_Name,Author,Category,Member_ID,Issue_Date,Return_Date,Fine,Status
+10001,Python Programming,John Smith,Programming,1001,2026-01-01,2026-01-11,0,Returned
+10002,Database Management,David Lee,Database,1002,2026-02-02,2026-02-12,20,Overdue
+10003,Artificial Intelligence,Sam Wilson,AI,1003,2026-03-03,,0,Issued
+10004,Java Programming,Mike Brown,Programming,1004,2026-04-04,2026-04-14,0,Returned
+10005,Data Science Basics,Alice Thomas,Data Science,1005,2026-05-05,2026-05-15,0,Returned
+10006,Machine Learning,Robert Davis,AI,1006,2026-06-06,2026-06-16,20,Overdue
+10007,Computer Networks,James Miller,Networking,1007,2026-01-07,,0,Issued
+10008,Web Development,Emily Wilson,Web,1008,2026-02-08,2026-02-18,0,Returned
+10009,Cyber Security,Daniel Moore,Security,1009,2026-03-09,2026-03-19,0,Returned
+10010,Cloud Computing,Sophia Taylor,Cloud,1010,2026-04-10,2026-04-20,20,Overdue
+10011,Operating Systems,John Smith,Computer Science,1011,2026-05-11,,0,Issued
+10012,Software Engineering,David Lee,Software,1012,2026-06-12,2026-06-22,0,Returned
+10013,C Programming,Sam Wilson,Programming,1013,2026-01-13,2026-01-23,0,Returned
+10014,Data Structures,Mike Brown,Computer Science,1014,2026-02-14,2026-02-24,20,Overdue
+10015,Computer Architecture,Alice Thomas,Computer Science,1015,2026-03-15,,0,Issued
+10016,Python Programming,Robert Davis,Programming,1016,2026-04-16,2026-04-26,0,Returned
+10017,Database Management,James Miller,Database,1017,2026-05-17,2026-05-27,0,Returned
+10018,Artificial Intelligence,Emily Wilson,AI,1018,2026-06-18,2026-06-28,20,Overdue
+10019,Java Programming,Daniel Moore,Programming,1019,2026-01-19,,0,Issued
+10020,Data Science Basics,Sophia Taylor,Data Science,1020,2026-02-20,2026-02-28,0,Returned
+10021,Machine Learning,John Smith,AI,1021,2026-03-21,2026-03-28,0,Returned
+10022,Computer Networks,David Lee,Networking,1022,2026-04-22,2026-04-28,20,Overdue
+10023,Web Development,Sam Wilson,Web,1023,2026-05-23,,0,Issued
+10024,Cyber Security,Mike Brown,Security,1024,2026-06-24,2026-06-28,0,Returned
+10025,Cloud Computing,Alice Thomas,Cloud,1025,2026-01-25,2026-01-28,0,Returned
+10026,Operating Systems,Robert Davis,Computer Science,1026,2026-02-01,2026-02-11,20,Overdue
+10027,Software Engineering,James Miller,Software,1027,2026-03-02,,0,Issued
+10028,C Programming,Emily Wilson,Programming,1028,2026-04-03,2026-04-13,0,Returned
+10029,Data Structures,Daniel Moore,Computer Science,1029,2026-05-04,2026-05-14,0,Returned
+10030,Computer Architecture,Sophia Taylor,Computer Science,1030,2026-06-05,2026-06-15,20,Overdue
+10031,Python Programming,John Smith,Programming,1031,2026-01-06,,0,Issued
+10032,Database Management,David Lee,Database,1032,2026-02-07,2026-02-17,0,Returned
+10033,Artificial Intelligence,Sam Wilson,AI,1033,2026-03-08,2026-03-18,0,Returned
+10034,Java Programming,Mike Brown,Programming,1034,2026-04-09,2026-04-19,20,Overdue
+10035,Data Science Basics,Alice Thomas,Data Science,1035,2026-05-10,,0,Issued
+10036,Machine Learning,Robert Davis,AI,1036,2026-06-11,2026-06-21,0,Returned
+10037,Computer Networks,James Miller,Networking,1037,2026-01-12,2026-01-22,0,Returned
+10038,Web Development,Emily Wilson,Web,1038,2026-02-13,2026-02-23,20,Overdue
+10039,Cyber Security,Daniel Moore,Security,1039,2026-03-14,,0,Issued
+10040,Cloud Computing,Sophia Taylor,Cloud,1040,2026-04-15,2026-04-25,0,Returned
+10041,Operating Systems,John Smith,Computer Science,1041,2026-05-16,2026-05-26,0,Returned
+10042,Software Engineering,David Lee,Software,1042,2026-06-17,2026-06-27,20,Overdue
+10043,C Programming,Sam Wilson,Programming,1043,2026-01-18,,0,Issued
+10044,Data Structures,Mike Brown,Computer Science,1044,2026-02-19,2026-02-28,0,Returned
+10045,Computer Architecture,Alice Thomas,Computer Science,1045,2026-03-20,2026-03-28,0,Returned
+10046,Python Programming,Robert Davis,Programming,1046,2026-04-21,2026-04-28,20,Overdue
+10047,Database Management,James Miller,Database,1047,2026-05-22,,0,Issued
+10048,Artificial Intelligence,Emily Wilson,AI,1048,2026-06-23,2026-06-28,0,Returned
+10049,Java Programming,Daniel Moore,Programming,1049,2026-01-24,2026-01-28,0,Returned
+10050,Data Science Basics,Sophia Taylor,Data Science,1050,2026-02-25,2026-02-28,20,Overdue
+10050,Data Science Basics,Sophia Taylor,Data Science,1050,2026-02-25,2026-02-28,20,Overdue
+10052,Computer Networks,David Lee,Networking,1002,2026-04-02,2026-04-12,0,Returned
+10053,Web Development,Sam Wilson,Web,1003,2026-05-03,2026-05-13,0,Returned
+10054,Cyber Security,Mike Brown,Security,1004,2026-06-04,2026-06-14,20,Overdue
+10055,Cloud Computing,Alice Thomas,Cloud,1005,2026-01-05,,0,Issued
+10056,Operating Systems,Robert Davis,Computer Science,1006,2026-02-06,2026-02-16,0,Returned
+10057,Software Engineering,James Miller,Software,1007,2026-03-07,2026-03-17,0,Returned
+10058,C Programming,Emily Wilson,Programming,1008,2026-04-08,2026-04-18,20,Overdue
+10059,Data Structures,Daniel Moore,Computer Science,1009,2026-05-09,,0,Issued
+10060,Computer Architecture,Sophia Taylor,Computer Science,1010,2026-06-10,2026-06-20,0,Returned
+10061,Python Programming,John Smith,Programming,1011,2026-01-11,2026-01-21,0,Returned
+10062,Database Management,David Lee,Database,1012,2026-02-12,2026-02-22,20,Overdue
+10063,Artificial Intelligence,Sam Wilson,AI,1013,2026-03-13,,0,Issued
+10064,Java Programming,Mike Brown,Programming,1014,2026-04-14,2026-04-24,0,Returned
+10065,Data Science Basics,Alice Thomas,Data Science,1015,2026-05-15,2026-05-25,0,Returned
+10066,Machine Learning,Robert Davis,AI,1016,2026-06-16,2026-06-26,20,Overdue
+10067,Computer Networks,James Miller,Networking,1017,2026-01-17,,0,Issued
+10068,Web Development,Emily Wilson,Web,1018,2026-02-18,2026-02-28,0,Returned
+10069,Cyber Security,Daniel Moore,Security,1019,2026-03-19,2026-03-28,0,Returned
+10070,Cloud Computing,Sophia Taylor,Cloud,1020,2026-04-20,2026-04-28,20,Overdue
+10071,Operating Systems,John Smith,Computer Science,1021,2026-05-21,,0,Issued
+10072,Software Engineering,David Lee,Software,1022,2026-06-22,2026-06-28,0,Returned
+10073,C Programming,Sam Wilson,Programming,1023,2026-01-23,2026-01-28,0,Returned
+10074,Data Structures,Mike Brown,Computer Science,1024,2026-02-24,2026-02-28,20,Overdue
+10075,Computer Architecture,Alice Thomas,Computer Science,1025,2026-03-25,,0,Issued
+10076,Python Programming,Robert Davis,Programming,1026,2026-04-01,2026-04-11,0,Returned
+10077,Database Management,James Miller,Database,1027,2026-05-02,2026-05-12,0,Returned
+10078,Artificial Intelligence,Emily Wilson,AI,1028,2026-06-03,2026-06-13,20,Overdue
+10079,Java Programming,Daniel Moore,Programming,1029,2026-01-04,,0,Issued
+10080,Data Science Basics,Sophia Taylor,Data Science,1030,2026-02-05,2026-02-15,0,Returned
+10081,Machine Learning,John Smith,AI,1031,2026-03-06,2026-03-16,0,Returned
+10082,Computer Networks,David Lee,Networking,1032,2026-04-07,2026-04-17,20,Overdue
+10083,Web Development,Sam Wilson,Web,1033,2026-05-08,,0,Issued
+10084,Cyber Security,Mike Brown,Security,1034,2026-06-09,2026-06-19,0,Returned
+10085,Cloud Computing,Alice Thomas,Cloud,1035,2026-01-10,2026-01-20,0,Returned
+10086,Operating Systems,Robert Davis,Computer Science,1036,2026-02-11,2026-02-21,20,Overdue
+10087,Software Engineering,James Miller,Software,1037,2026-03-12,,0,Issued
+10088,C Programming,Emily Wilson,Programming,1038,2026-04-13,2026-04-23,0,Returned
+10089,Data Structures,Daniel Moore,Computer Science,1039,2026-05-14,2026-05-24,0,Returned
+10090,Computer Architecture,Sophia Taylor,Computer Science,1040,2026-06-15,2026-06-25,20,Overdue
+10091,Python Programming,John Smith,Programming,1041,2026-01-16,,0,Issued
+10092,Database Management,David Lee,Database,1042,2026-02-17,2026-02-27,0,Returned
+10093,Artificial Intelligence,Sam Wilson,AI,1043,2026-03-18,2026-03-28,0,Returned
+10094,Java Programming,Mike Brown,Programming,1044,2026-04-19,2026-04-28,20,Overdue
+10095,Data Science Basics,Alice Thomas,Data Science,1045,2026-05-20,,0,Issued
+10096,Machine Learning,Robert Davis,AI,1046,2026-06-21,2026-06-28,0,Returned
+10097,Computer Networks,James Miller,Networking,1047,2026-01-22,2026-01-28,0,Returned
+10098,Web Development,Emily Wilson,Web,1048,2026-02-23,2026-02-28,20,Overdue
+10099,Cyber Security,Daniel Moore,Security,1049,2026-03-24,,0,Issued
+10100,Cloud Computing,Sophia Taylor,Cloud,1050,2026-04-25,2026-04-28,0,Returned
+10101,Operating Systems,John Smith,Computer Science,1001,2026-05-01,2026-05-11,0,Returned
+10102,Software Engineering,David Lee,Software,1002,2026-06-02,2026-06-12,20,Overdue
+10103,C Programming,Sam Wilson,Programming,1003,2026-01-03,,0,Issued
+10104,Data Structures,Mike Brown,Computer Science,1004,2026-02-04,2026-02-14,0,Returned
+10105,Computer Architecture,Alice Thomas,Computer Science,1005,2026-03-05,2026-03-15,0,Returned
+10106,Python Programming,Robert Davis,Programming,1006,2026-04-06,2026-04-16,20,Overdue
+10107,Database Management,James Miller,Database,1007,2026-05-07,,0,Issued
+10108,Artificial Intelligence,Emily Wilson,AI,1008,2026-06-08,2026-06-18,0,Returned
+10109,Java Programming,Daniel Moore,Programming,1009,2026-01-09,2026-01-19,0,Returned
+10110,Data Science Basics,Sophia Taylor,Data Science,1010,2026-02-10,2026-02-20,20,Overdue
+10111,Machine Learning,John Smith,AI,1011,2026-03-11,,0,Issued
+10112,Computer Networks,David Lee,Networking,1012,2026-04-12,2026-04-22,0,Returned
+10113,Web Development,Sam Wilson,Web,1013,2026-05-13,2026-05-23,0,Returned
+10114,Cyber Security,Mike Brown,Security,1014,2026-06-14,2026-06-24,20,Overdue
+10115,Cloud Computing,Alice Thomas,Cloud,1015,2026-01-15,,0,Issued
+10116,Operating Systems,Robert Davis,Computer Science,1016,2026-02-16,2026-02-26,0,Returned
+10117,Software Engineering,James Miller,Software,1017,2026-03-17,2026-03-27,0,Returned
+10118,C Programming,Emily Wilson,Programming,1018,2026-04-18,2026-04-28,20,Overdue
+10119,Data Structures,Daniel Moore,Computer Science,1019,2026-05-19,,0,Issued
+10120,Computer Architecture,Sophia Taylor,Computer Science,1020,2026-06-20,2026-06-28,0,Returned
+10120,Computer Architecture,Sophia Taylor,Computer Science,1020,2026-06-20,2026-06-28,0,Returned
+10122,Database Management,David Lee,Database,1022,2026-02-22,2026-02-28,20,Overdue
+10123,Artificial Intelligence,Sam Wilson,AI,1023,2026-03-23,,0,Issued
+10124,Java Programming,Mike Brown,Programming,1024,2026-04-24,2026-04-28,0,Returned
+10125,Data Science Basics,Alice Thomas,Data Science,1025,2026-05-25,2026-05-28,0,Returned
+10126,Machine Learning,Robert Davis,AI,1026,2026-06-01,2026-06-11,20,Overdue
+10127,Computer Networks,James Miller,Networking,1027,2026-01-02,,0,Issued
+10128,Web Development,Emily Wilson,Web,1028,2026-02-03,2026-02-13,0,Returned
+10129,Cyber Security,Daniel Moore,Security,1029,2026-03-04,2026-03-14,0,Returned
+10130,Cloud Computing,Sophia Taylor,Cloud,1030,2026-04-05,2026-04-15,20,Overdue
+10131,Operating Systems,John Smith,Computer Science,1031,2026-05-06,,0,Issued
+10132,Software Engineering,David Lee,Software,1032,2026-06-07,2026-06-17,0,Returned
+10133,C Programming,Sam Wilson,Programming,1033,2026-01-08,2026-01-18,0,Returned
+10134,Data Structures,Mike Brown,Computer Science,1034,2026-02-09,2026-02-19,20,Overdue
+10135,Computer Architecture,Alice Thomas,Computer Science,1035,2026-03-10,,0,Issued
+10136,Python Programming,Robert Davis,Programming,1036,2026-04-11,2026-04-21,0,Returned
+10137,Database Management,James Miller,Database,1037,2026-05-12,2026-05-22,0,Returned
+10138,Artificial Intelligence,Emily Wilson,AI,1038,2026-06-13,2026-06-23,20,Overdue
+10139,Java Programming,Daniel Moore,Programming,1039,2026-01-14,,0,Issued
+10140,Data Science Basics,Sophia Taylor,Data Science,1040,2026-02-15,2026-02-25,0,Returned
+10141,Machine Learning,John Smith,AI,1041,2026-03-16,2026-03-26,0,Returned
+10142,Computer Networks,David Lee,Networking,1042,2026-04-17,2026-04-27,20,Overdue
+10143,Web Development,Sam Wilson,Web,1043,2026-05-18,,0,Issued
+10144,Cyber Security,Mike Brown,Security,1044,2026-06-19,2026-06-28,0,Returned
+10145,Cloud Computing,Alice Thomas,Cloud,1045,2026-01-20,2026-01-28,0,Returned
+10146,Operating Systems,Robert Davis,Computer Science,1046,2026-02-21,2026-02-28,20,Overdue
+10147,Software Engineering,James Miller,Software,1047,2026-03-22,,0,Issued
+10148,C Programming,Emily Wilson,Programming,1048,2026-04-23,2026-04-28,0,Returned
+10149,Data Structures,Daniel Moore,Computer Science,1049,2026-05-24,2026-05-28,0,Returned
+10150,Computer Architecture,Sophia Taylor,Computer Science,1050,2026-06-25,2026-06-28,20,Overdue
+10151,Python Programming,John Smith,Programming,1001,2026-01-01,,0,Issued
+10152,Database Management,David Lee,Database,1002,2026-02-02,2026-02-12,0,Returned
+10153,Artificial Intelligence,Sam Wilson,AI,1003,2026-03-03,2026-03-13,0,Returned
+10154,Java Programming,Mike Brown,Programming,1004,2026-04-04,2026-04-14,20,Overdue
+10155,Data Science Basics,Alice Thomas,Data Science,1005,2026-05-05,,0,Issued
+10156,Machine Learning,Robert Davis,AI,1006,2026-06-06,2026-06-16,0,Returned
+10157,Computer Networks,James Miller,Networking,1007,2026-01-07,2026-01-17,0,Returned
+10158,Web Development,Emily Wilson,Web,1008,2026-02-08,2026-02-18,20,Overdue
+10159,Cyber Security,Daniel Moore,Security,1009,2026-03-09,,0,Issued
+10160,Cloud Computing,Sophia Taylor,Cloud,1010,2026-04-10,2026-04-20,0,Returned
+10161,Operating Systems,John Smith,Computer Science,1011,2026-05-11,2026-05-21,0,Returned
+10162,Software Engineering,David Lee,Software,1012,2026-06-12,2026-06-22,20,Overdue
+10163,C Programming,Sam Wilson,Programming,1013,2026-01-13,,0,Issued
+10164,Data Structures,Mike Brown,Computer Science,1014,2026-02-14,2026-02-24,0,Returned
+10165,Computer Architecture,Alice Thomas,Computer Science,1015,2026-03-15,2026-03-25,0,Returned
+10166,Python Programming,Robert Davis,Programming,1016,2026-04-16,2026-04-26,20,Overdue
+10167,Database Management,James Miller,Database,1017,2026-05-17,,0,Issued
+10168,Artificial Intelligence,Emily Wilson,AI,1018,2026-06-18,2026-06-28,0,Returned
+10169,Java Programming,Daniel Moore,Programming,1019,2026-01-19,2026-01-28,0,Returned
+10170,Data Science Basics,Sophia Taylor,Data Science,1020,2026-02-20,2026-02-28,20,Overdue
+10171,Machine Learning,John Smith,AI,1021,2026-03-21,,0,Issued
+10172,Computer Networks,David Lee,Networking,1022,2026-04-22,2026-04-28,0,Returned
+10173,Web Development,Sam Wilson,Web,1023,2026-05-23,2026-05-28,0,Returned
+10174,Cyber Security,Mike Brown,Security,1024,2026-06-24,2026-06-28,20,Overdue
+10175,Cloud Computing,Alice Thomas,Cloud,1025,2026-01-25,,0,Issued
+10176,Operating Systems,Robert Davis,Computer Science,1026,2026-02-01,2026-02-11,0,Returned
+10177,Software Engineering,James Miller,Software,1027,2026-03-02,2026-03-12,0,Returned
+10178,C Programming,Emily Wilson,Programming,1028,2026-04-03,2026-04-13,20,Overdue
+10179,Data Structures,Daniel Moore,Computer Science,1029,2026-05-04,,0,Issued
+10180,Computer Architecture,Sophia Taylor,Computer Science,1030,2026-06-05,2026-06-15,0,Returned
+10180,Computer Architecture,Sophia Taylor,Computer Science,1030,2026-06-05,2026-06-15,0,Returned
+10182,Database Management,David Lee,Database,1032,2026-02-07,2026-02-17,20,Overdue
+10183,Artificial Intelligence,Sam Wilson,AI,1033,2026-03-08,,0,Issued
+10184,Java Programming,Mike Brown,Programming,1034,2026-04-09,2026-04-19,0,Returned
+10185,Data Science Basics,Alice Thomas,Data Science,1035,2026-05-10,2026-05-20,0,Returned
+10186,Machine Learning,Robert Davis,AI,1036,2026-06-11,2026-06-21,20,Overdue
+10187,Computer Networks,James Miller,Networking,1037,2026-01-12,,0,Issued
+10188,Web Development,Emily Wilson,Web,1038,2026-02-13,2026-02-23,0,Returned
+10189,Cyber Security,Daniel Moore,Security,1039,2026-03-14,2026-03-24,0,Returned
+10190,Cloud Computing,Sophia Taylor,Cloud,1040,2026-04-15,2026-04-25,20,Overdue
+10191,Operating Systems,John Smith,Computer Science,1041,2026-05-16,,0,Issued
+10192,Software Engineering,David Lee,Software,1042,2026-06-17,2026-06-27,0,Returned
+10193,C Programming,Sam Wilson,Programming,1043,2026-01-18,2026-01-28,0,Returned
+10194,Data Structures,Mike Brown,Computer Science,1044,2026-02-19,2026-02-28,20,Overdue
+10195,Computer Architecture,Alice Thomas,Computer Science,1045,2026-03-20,,0,Issued
+10196,Python Programming,Robert Davis,Programming,1046,2026-04-21,2026-04-28,0,Returned
+10197,Database Management,James Miller,Database,1047,2026-05-22,2026-05-28,0,Returned
+10198,Artificial Intelligence,Emily Wilson,AI,1048,2026-06-23,2026-06-28,20,Overdue
+10199,Java Programming,Daniel Moore,Programming,1049,2026-01-24,,0,Issued
+10200,Data Science Basics,Sophia Taylor,Data Science,1050,2026-02-25,2026-02-28,0,Returned
